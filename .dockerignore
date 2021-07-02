@@ -1,0 +1,6 @@
+**/test_task2/
+.bin
+.include
+.lib
+.lib64
+.python3.8

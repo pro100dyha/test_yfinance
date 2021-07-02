@@ -1,0 +1,38 @@
+media_root/
+static_root/
+.cache/
+.coverage
+.env.fish
+
+#PyCharm idea folder
+.idea/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Django stuff:
+*.log
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+#macos
+**/.DS_Store
+
+*.egg-info/
+.installed.cfg
+*.egg
+
+*.sqlite3
+
+secret.yml
+
+.venv
+.vscode/
+
+local_dyha.py
+certs/
